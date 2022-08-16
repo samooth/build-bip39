@@ -16,11 +16,11 @@ module.exports = {
             options: {
                 name: 'BIP39 Mnemonic Builder',
                 short_name: 'BIP39',
-                start_url: '/build-bip39',
+                start_url: '/',
                 background_color: '#fff',
                 theme_color: '#f59237',
                 display: 'standalone',
-                icon: 'src/images/btc512x512.png',
+                icon: 'src/images/bsv512x512.png',
             },
         },
         'gatsby-plugin-offline',
